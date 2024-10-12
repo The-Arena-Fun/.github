@@ -7,7 +7,7 @@ I.e. traders can trade against each other on any token market to achieve the bes
 ## MVP
 The MVP consists of a 1v1 PVP trading competition of the following core features
 1. Deposit wager 
-2. Trade leverage on Drift markets
+2. Trade leverage on [Drift Protocol](https://app.drift.trade/overview)
 3. Match resolution (incomplete)
 
 ## Code submission
