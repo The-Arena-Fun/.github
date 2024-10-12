@@ -8,7 +8,7 @@ I.e. traders can trade against each other on any token market to achieve the bes
 The MVP consists of a 1v1 PVP trading competition of the following core features
 1. Deposit wager 
 2. Trade leverage on Drift markets
-3. Match resolution
+3. Match resolution (incomplete)
 
 ## Code submission
 - [`monorepo`](https://github.com/The-Arena-Fun/arena-ts) monorepo for the entire application: UI, trading, price feeds etc.
